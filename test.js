@@ -11,4 +11,4 @@ assert.strictEqual(add(0, 0), 0, '0 + 0 should equal 0');
 assert.strictEqual(multiply(-2, -3), 6, '-2 * -3 should equal 6');
 
 console.log('✅ All unit tests passed seamlessly!');
-//gihgkj\/fdkj/sdfsdacadfdjhsdbf
+//gihgkj\/fdkj/sdfsdacadfdjhsdbfavdsdsf
