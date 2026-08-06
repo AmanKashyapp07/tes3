@@ -1,0 +1,15 @@
+{
+  "stages": {
+    "setup": {
+      "run": "npm install"
+    },
+    "test": {
+      "run": "npm test",
+      "needs": ["setup"]
+    },
+    "build": {
+      "run": "npm run build",
+      "needs": ["test"]
+    }
+  }
+}

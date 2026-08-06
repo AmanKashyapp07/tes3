@@ -1,0 +1,13 @@
+{
+  "name": "tes",
+  "version": "1.0.0",
+  "description": "Basic testing pipeline repository for MagnusCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo 'Build step completed successfully!'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
