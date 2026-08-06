@@ -8,8 +8,7 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-  // BRUTAL BUG INTRODUCED
-  return a + b;
+  return a - b;
 }
 
 function multiply(a, b) {
